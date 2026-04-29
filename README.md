@@ -5,6 +5,8 @@ app  en desarrollo replica de app youtuber
 
 (1 FRASE)
 
+preview index
+https://github.com/user-attachments/assets/79de0ecf-45d0-48e7-80c2-23857ff54c3b
 
 preview server
 
