@@ -1,7 +1,5 @@
 
-https://github.com/user-attachments/assets/6f782c53-d2f7-4f53-8b70-874162a77337
 
-https://github.com/user-attachments/assets/c45b92cf-4a65-4e63-8132-604e316e9913
 
 app  en desarrollo replica de app youtuber
 
