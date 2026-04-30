@@ -2,7 +2,7 @@
 
 
 App  en desarrollo replica de app youtuber video en vivo, cargar video, registro...
-# -------------------------------construcción lenguajes---------------------------------
+# ------------------construcción lenguajes------------------------
 
 # backend:Golang y contrucccion de la api con Gin es un framework web escrito en Go (Golang)
 
@@ -10,7 +10,7 @@ App  en desarrollo replica de app youtuber video en vivo, cargar video, registro
 
 # Bootstrap Framework multiplataforma
 
-# -----------------------------Multiple gestores de db------------------------------------
+# -----------------Multiple gestores de db--------------------------
 
 # MySQL Base de datos relacional
 
