@@ -2,12 +2,19 @@
 
 
 App  en desarrollo replica de app youtuber video en vivo, cargar video, registro...
+# construcción lenguajes
 
 # backend:Golang y contrucccion de la api con Gin es un framework web escrito en Go (Golang)
 
 # frontend: React Biblioteca Javascript
 
 # Bootstrap Framework multiplataforma
+
+# Multiple gestores de db
+
+# MySQL Base de datos relacional
+
+# PostgreSQL es un sistema de gestión de bases de datos relacionales (RDBMS) 
 
 (1 FRASE)
 
